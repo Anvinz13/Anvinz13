@@ -11,7 +11,6 @@
 ## 🔧 Tech Stack
 - ASP.NET Core (MVC)
 - C#
-- Entity Framework Core (Basics)
 - SQL Server / MySQL
 - HTML, CSS, Bootstrap
 - Git & GitHub

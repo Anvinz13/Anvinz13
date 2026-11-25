@@ -21,6 +21,7 @@
 - 💻 **Web Development:** ASP.NET Core 10, ASP.NET MVC, Entity Framework Core, Web APIs
 - 🖥️ **Desktop & Hardware Solutions:** C# Windows Forms (WinForms), POS/Printer Integration, Desktop UI
 - 🐧 **Servers & Hosting:** Linux Server administration, Kestrel & reverse proxy configuration, application deployment
+- 🔄 **Methodologies & Practices:** Agile (Scrum), Sprint Planning, Clean Architecture, CI/CD
 - 🎯 **Currently Focusing On:** ASP.NET Core 10 modern features, Clean Architecture, and enterprise-grade systems
 
 ---
@@ -54,6 +55,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+#### Methodologies & Project Workflow
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=scrumalliance&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-2C5E8A?style=flat-square&logo=scrumalliance&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
@@ -92,7 +98,6 @@
 - Designed product inventory, category mapping, shopping cart, and checkout workflows.
 
 ---
-
 
 <div align="center">
   ⭐️ <i>Feel free to explore my repositories or connect with me on <a href="https://www.linkedin.com/in/anvin-c-byju">LinkedIn</a>!</i>
